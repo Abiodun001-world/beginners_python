@@ -1,47 +1,47 @@
-Installing Python Environment 
-Anaconda Individual Edition
-Jupyter Notebook 
-Introduction to Data Types 
-Types Name Description  
-Variables in python
-strings 
-Strings, Methods and Formatting
-strings variables
-slicing syntax 
-character 
-Index 
-Reverse index 
-Indexing and slicing 
-String Interpolation
-Lists in Python 
-List_example 
-concatenated_list
-colors.append
-removed_item
-reversed_numbers,numbers_reversed 
-Tuples 
-Length 
-Booleans and Sets in Python 
-Julian's Boolean
-You need to capitalize T in true and F in false 
-Comparison Operators in Python 
-If, Elif and Else Statements in Python
-List Comprehension 
-Letters 
-Value_list 
-Functions in Python 
-Syntax 
-def Keyword 
-Logical Statements in Functions and Tuple Unpacking
-How Mutiple Functions Interact in Python
-Arguments and Keyword Arguments 
-Lambda Expressions
-Variable Scope in Python 
-Classes and Attributes in Python 
-Methods in Python 
-Inheritance,Polymorphism and Abstract Classes 
-obejcts 
-Special Methods in python 
+Installing Python Environment <br />
+Anaconda Individual Edition <br />
+Jupyter Notebook <br />
+Introduction to Data Types <br />
+Types Name Description  <br />
+Variables in python <br />
+strings <br />
+Strings, Methods and Formatting <br />
+strings variables <br />
+slicing syntax <br />
+character <br />
+Index <br />
+Reverse index <br />
+Indexing and slicing <br /> 
+String Interpolation <br />
+Lists in Python <br />
+List_example <br />
+concatenated_list <br />
+colors.append <br />
+removed_item <br />
+reversed_numbers,numbers_reversed <br />
+Tuples <br />
+Length <br />
+Booleans and Sets in Python <br />
+Julian's Boolean <br />
+You need to capitalize T in true and F in false <br />
+Comparison Operators in Python <br />
+If, Elif and Else Statements in Python <br />
+List Comprehension <br />
+Letters <br />
+Value_list <br />
+Functions in Python <br />
+Syntax <br />
+def Keyword <br />
+Logical Statements in Functions and Tuple Unpacking <br />
+How Mutiple Functions Interact in Python <br />
+Arguments and Keyword Arguments <br />
+Lambda Expressions <br />
+Variable Scope in Python <br />
+Classes and Attributes in Python <br />
+Methods in Python <br />
+Inheritance,Polymorphism and Abstract Classes <br /> 
+obejcts <br />
+Special Methods in python <br />
 
 
 

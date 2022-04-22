@@ -1,0 +1,5 @@
+print("Hello and Welcome.")
+name = input("What's your name ?")
+if name == "Emmanuel of Africa"
+print("That's my name too!")
+print("Hi + name")
